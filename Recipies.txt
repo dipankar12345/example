@@ -6,3 +6,7 @@ wWelcome to Telusko kitchen
 chicken 
 
 pasta
+
+
+chicken fry
+
